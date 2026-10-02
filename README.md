@@ -1,7 +1,7 @@
 # Multi-Sensor Environmental Monitoring System
 
 
-## The Multi-Sensor Environmental Monitoring System is an embedded system project developed using the ARM7 LPC2129 microcontroller. The system collects and processes environmental data from multiple sensors, including the LM35 temperature sensor, LDR sensor, soil moisture sensor, and water sensor.
+The Multi-Sensor Environmental Monitoring System is an embedded system project developed using the ARM7 LPC2129 microcontroller. The system collects and processes environmental data from multiple sensors, including the LM35 temperature sensor, LDR sensor, soil moisture sensor, and water sensor.
 
 The LPC2129 reads sensor values through its ADC (Analog-to-Digital Converter) and determines the corresponding environmental conditions. The monitored information is displayed on a 16×2 LCD, while LED indicators provide visual status information. The sensor data and system status are also transmitted to a PC/Laptop through UART communication.
 
